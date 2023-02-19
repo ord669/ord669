@@ -15,13 +15,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="qadirhassan.com.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="qadirhassan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="qadirhassan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="qadirhassan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="qadirhassan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' width='25px'>](https://www.facebook.com/qadir.hassan.142)  
-***
+
 ### Languages and Tools:
 
 ### Front-End Technologies  
@@ -40,43 +34,7 @@
 <br />
 
 
-# CHECK OUT MY RECENT PROJECTS!
-<table>
-  <tr>
-    <td><img src="https://github.com/Qadir-Hassan/attachement/blob/main/newtonpad.png" width = 1000>
-    </td>
-     <td><img src="https://github.com/Qadir-Hassan/attachement/blob/main/NCAI-%E2%80%93-National-Center-of-Artificial-Intelligence.png" width = 700>
-    </td>
-    <td><img src="https://github.com/Qadir-Hassan/attachement/blob/main/Ascend-Perinatal-%E2%80%93-Ascend-Perinatal.png" width =1000>
-    </td>
-  </tr> 
-  
-  <tr>
-    <td><a href="https://newtonpad.com/"</a> 1. Newton Pad</td>
-        <td><a href="https://ncai.pk/"</a> 2. NCAI NUST</td>
-     <td><a href="https://ascendperinatal.com/"</a> 3. Ascend Perinatal </td>
-  </tr>
-  
- 
- <tr> 
-  <td><img src="https://github.com/Qadir-Hassan/attachement/blob/main/Home-Maine-Cabinet-Company.png" width =1000></td>
- 
-  <td>
-   <img src="https://img1.wsimg.com/isteam/ip/5390dd1e-7b03-4de5-9508-732821df8bff/Capture6.JPG/:/cr=t:0%25,l:6.8%25,w:86.4%25,h:100%25/rs=w:388,h:194,cg:true">
-  </td>
-  
-   
-  <td>
-   <img src="https://img1.wsimg.com/isteam/ip/5390dd1e-7b03-4de5-9508-732821df8bff/Capture7.JPG/:/cr=t:7.92%25,l:0%25,w:100%25,h:84.16%25/rs=w:388,h:194,cg:true">
-  </td>
- </tr>
-  
-   <tr>
-     <td><a href="https://mainecabinetcompany.net/"</a> 4. Maine Cabinet Company </td>
-     <td>5. Alt Coin and Platform</td>
-     <td>6. Crypto Wallet App</td>
-  </tr>
-</table>
+
 ![Profile views](https://gpvc.arturio.dev/Qadir-Hassan)</br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Qadir-Hassan&show_icons=true) </br>
 ![GitHub metrics](https://metrics.lecoq.io/Qadir-Hassan)  
