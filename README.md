@@ -1,19 +1,17 @@
 ### Hi there, I am Or Dvir -  [Linkedin][linkedin] 👋 
+#### Coding Superstar and Humble Junior Full Stack Developer
 <img src="https://github.com/Qadir-Hassan/attachement/blob/main/bg.png">
 ### Connect with me:
 
+## 🚀 SUMMARY
+I'm not your average developer - I've got a background in management, I am a Co-founder & Former CEO, Graphical LTD, I've led teams of 10 to 20 people in marketing, sales, and finance, which means I know how to lead a team and get stuff done. But don't worry, I won't be the office know-it-all. I'm a fun person who knows how to work hard and play hard.
 
 
 
-## I'm a Full Stack Developer, and Teacher!!
-
-- 🔭 I just launched my first course: [Data Structure And Algorithms][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to talk.
 
 ### Connect with me:
+![Linkedin](https://socialize-md.vercel.app/api/badge/linkedin)
+[![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://www.linkedin.com/in/or%D6%B9dvir/)
 
 
 ### 🛠 Skills:
