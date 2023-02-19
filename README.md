@@ -18,7 +18,9 @@
 
 ### 🛠 Skills:
  
-[![My Skills](https://skills.thijs.gg/icons?i=angular,react,vue,js&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=angular,react,vue,js,nodejs,express,mongodb&theme=dark)](https://skills.thijs.gg)
+</br>
+[![My Skills](https://skills.thijs.gg/icons?i=sass,html,css,ts&theme=dark)](https://skills.thijs.gg)
 </br>
 
 ### Backend Technologies
