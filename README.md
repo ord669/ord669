@@ -1,4 +1,4 @@
-### Hi there, I am Qadir -  [qadirhassan.com][website] 👋 
+### Hi there, I am Or Dvir -  [Linkedin][linkedin] 👋 
 
 [![Website](https://img.shields.io/website?label=Upwork&style=for-the-badge&url=https://www.upwork.com/freelancers/~019565cf421b13b15e)](https://www.upwork.com/freelancers/~019565cf421b13b15e)
 [![Twitter Follow](https://img.shields.io/twitter/follow/QADIR?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Qadir77350473)
@@ -41,12 +41,12 @@
 
 
 
-[website]: https://qadirhassan.com/
+
 [course]: https://www.youtube.com/watch?v=mjYh6hlXmZk&t=293s&ab_channel=TutorialHero
 [twitter]: https://twitter.com/Qadir77350473
 [youtube]: https://www.youtube.com/channel/UCRUrJPsXvjsblevu514rkbQ
 [instagram]: https://www.instagram.com/qadir109/
-[linkedin]: https://www.linkedin.com/in/qadir-hassan/
+[linkedin]: https://www.linkedin.com/in/or%D6%B9dvir/
 
 
 
