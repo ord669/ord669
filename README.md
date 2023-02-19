@@ -23,22 +23,12 @@
 [![My Skills](https://skills.thijs.gg/icons?i=sass,html,css,ts&theme=dark)](https://skills.thijs.gg)
 </br>
 
-### Backend Technologies
-
-[![My Skills](https://skills.thijs.gg/icons?i=php,py,cpp,django,mysql,mongodb&theme=dark)](https://skills.thijs.gg)
-
-</br>
-
-### Other Tools and Technologies
-[![My Skills](https://skills.thijs.gg/icons?i=git,github,ps,vscode,wordpress,xd&theme=dark)](https://skills.thijs.gg)
-
-<br />
 
 
 
-![Profile views](https://gpvc.arturio.dev/Qadir-Hassan)</br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Qadir-Hassan&show_icons=true) </br>
-![GitHub metrics](https://metrics.lecoq.io/Qadir-Hassan)  
+![Profile views](https://gpvc.arturio.dev/ord669)</br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ord669&show_icons=true) </br>
+![GitHub metrics](https://metrics.lecoq.io/ord669)  
 
 
 
