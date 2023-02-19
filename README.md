@@ -10,8 +10,11 @@ I'm not your average developer - I've got a background in management, I am a Co-
 
 
 ### Connect with me:
-![Linkedin](https://socialize-md.vercel.app/api/badge/linkedin)
-[![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://www.linkedin.com/in/or%D6%B9dvir/)
+<a href="https://github.com/ord669">
+ <img src="https://img.icons8.com/fluency/96/null/github.png"/>
+</a>
+
+
 
 
 ### 🛠 Skills:
