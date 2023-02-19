@@ -1,7 +1,33 @@
 ### Hi there, I am Or Dvir -  [Linkedin][linkedin] 👋 
 #### Coding Superstar and Humble Junior Full Stack Developer
-<img src="https://github.com/Qadir-Hassan/attachement/blob/main/bg.png">
 ### Connect with me:
+
+<table>
+ <tr>
+  <td>
+   <a href="https://github.com/ord669"> 
+ <img src="https://img.icons8.com/fluency/48/null/github.png"/>
+   </a>
+  </td>
+   <td>
+   <a href="https://www.linkedin.com/in/or%D6%B9dvir/">
+ <img src="https://img.icons8.com/fluency/48/null/linkedin-circled.png"/>  
+   </a>
+  </td>
+   <td>
+   <a href="mailto: ordvir24@gmail.com">
+ <img src="https://img.icons8.com/color/48/null/circled-envelope.png"/>
+   </a>
+  </td>
+  
+  
+  
+ </tr>
+</table>
+<img src="https://github.com/Qadir-Hassan/attachement/blob/main/bg.png">
+
+
+
 
 ## 🚀 SUMMARY
 I'm not your average developer - I've got a background in management, I am a Co-founder & Former CEO, Graphical LTD, I've led teams of 10 to 20 people in marketing, sales, and finance, which means I know how to lead a team and get stuff done. But don't worry, I won't be the office know-it-all. I'm a fun person who knows how to work hard and play hard.
@@ -9,10 +35,8 @@ I'm not your average developer - I've got a background in management, I am a Co-
 
 
 
-### Connect with me:
-<a href="https://github.com/ord669">
- <img src="https://img.icons8.com/fluency/96/null/github.png"/>
-</a>
+
+
 
 
 
@@ -23,6 +47,7 @@ I'm not your average developer - I've got a background in management, I am a Co-
 </br>
 [![My Skills](https://skills.thijs.gg/icons?i=sass,html,css,ts&theme=dark)](https://skills.thijs.gg)
 </br>
+
 
 
 
