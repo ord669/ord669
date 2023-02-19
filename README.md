@@ -1,9 +1,9 @@
 ### Hi there, I am Or Dvir -  [Linkedin][linkedin] 👋 
-
-[![Website](https://img.shields.io/website?label=Upwork&style=for-the-badge&url=https://www.upwork.com/freelancers/~019565cf421b13b15e)](https://www.upwork.com/freelancers/~019565cf421b13b15e)
-[![Twitter Follow](https://img.shields.io/twitter/follow/QADIR?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Qadir77350473)
-[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qadir-hassan)
 <img src="https://github.com/Qadir-Hassan/attachement/blob/main/bg.png">
+### Connect with me:
+
+
+
 
 ## I'm a Full Stack Developer, and Teacher!!
 
@@ -16,10 +16,9 @@
 ### Connect with me:
 
 
-### Languages and Tools:
-
-### Front-End Technologies  
-[![My Skills](https://skills.thijs.gg/icons?i=angular,html,css,js,bootstrap,figma&theme=dark)](https://skills.thijs.gg)
+### 🛠 Skills:
+ 
+[![My Skills](https://skills.thijs.gg/icons?i=angular,react,vue,js&theme=dark)](https://skills.thijs.gg)
 </br>
 
 ### Backend Technologies
