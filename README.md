@@ -6,7 +6,7 @@
  <tr>
   <td>
    <a href="https://github.com/ord669"> 
- <img src="https://img.icons8.com/fluency/48/null/github.png"/>
+ <iframe src="https://embed.lottiefiles.com/animation/92713"></iframe>
    </a>
   </td>
    <td>
