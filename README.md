@@ -4,10 +4,6 @@
 
 <table>
  <tr>
-  <td>
-   <a href="https://github.com/ord669"> 
-   </a>
-  </td>
    <td>
    <a href="https://www.linkedin.com/in/or%D6%B9dvir/">
  <img src="https://img.icons8.com/fluency/48/null/linkedin-circled.png"/>  
