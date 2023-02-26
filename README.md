@@ -30,24 +30,32 @@
 
 
 # 🚀 SUMMARY
-I'm not your average developer - I've got a background in management, I am a Co-founder & Former CEO, Graphical LTD, I've led teams of 10 to 20 people in marketing, sales, and finance, which means I know how to lead a team and get stuff done. But don't worry, I won't be the office know-it-all. I'm a fun person who knows how to work hard and play hard.
+Co-founder & Former CEO, Graphical LTD, I've led teams of 10 to 20 people in
+marketing, sales, and finance. (don't worry, I won't be the office know-it-all)
+Checkout my last projects:
+• Trello clone integrated with openai (React, Node, MongoDB, AI)
+• Online trading website that inspired by Binance(Vue, Binance Api) 
 
 # EXPERIENCE
 
-- Developed and maintained full-stack applications using JavaScript, React, Angular, Vue, Node.js, Express, MongoDB, and REST APIs.  I'm like a coding mad scientist, but with better hair.
-- Created visually stunning user interfaces with SASS, HTML, and CSS. It's like I'm a web Picasso, but without the weird mustache.
-- Implemented Web Sockets for real-time communication between clients and servers. Because let's be real, nobody likes waiting around for a page to load.
-- Utilized TypeScript for type checking and enhanced code reliability. 
-- I'm like the coding Superman, but instead of saving people, I save code from crashing.
+- Developed and maintained full-stack applications using JavaScript, React, Angular,
+Vue, Node.js, Express, MongoDB, firebase, next.js, and REST APIs. Like a coding mad scientist, but
+with better hair.
+- Created stunning user interfaces with SASS, HTML, and CSS.
+- Implemented Web Sockets for real-time communication between clients and
+servers.
+- Utilized TypeScript for type checking and enhanced code reliability
+
 ### Co-founder & Former CEO, Graphical LTD, [2019-2022]
-- Managed a team of 10 to 20 people in marketing, sales, and finance to generate revenue of over 2 million USD in 3 years.
-- Produced and delivered online courses to over 4000 students. 
+- Managed a team of 10 to 20 people in marketing, sales, and finance to generate
+revenue of over 2 million USD with over 4000 customers in 3 years 
 
 ### Artillery Corps Soldier, Israel Defense Forces, [2013-2016]
 - Over my service period I have developed discipline, attention to detail, and teamwork skills through rigorous training and experience, I can definitely  handle the pressure of deadlines and bugs.
 
 # 📘 EDUCATION
-- Full Stack Developer Bootcamp, [Coding Academy], [2022]
+- Full Stack Bootcamp - Coding Academy by Mister Bit,
+(640 hours)
 
 # 🛠 Skills:
  
@@ -70,13 +78,8 @@ Honesty, Credibility, Creativity, Communication, Obsession, Empathy, Fail Fast a
 ![GitHub metrics](https://metrics.lecoq.io/ord669)  
 
 
-
-
 [course]: https://www.youtube.com/watch?v=mjYh6hlXmZk&t=293s&ab_channel=TutorialHero
-[twitter]: https://twitter.com/Qadir77350473
-[youtube]: https://www.youtube.com/channel/UCRUrJPsXvjsblevu514rkbQ
-[instagram]: https://www.instagram.com/qadir109/
-[linkedin]: https://www.linkedin.com/in/or%D6%B9dvir/
+[linkedin]: [https://www.linkedin.com/in/or%D6%B9dvir/](http://bit.ly/3IAykwO)
 
 
 
