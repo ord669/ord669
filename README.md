@@ -23,8 +23,7 @@
   
  </tr>
 </table>
-[<img src="https://github.com/Qadir-Hassan/attachement/blob/main/tinywow_web-developer_14252841.gif">
-](https://lottiefiles.com/92713-uiux)
+
 
 
 
