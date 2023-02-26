@@ -6,7 +6,6 @@
  <tr>
   <td>
    <a href="https://github.com/ord669"> 
- <iframe src="https://embed.lottiefiles.com/animation/92713"></iframe>
    </a>
   </td>
    <td>
@@ -24,8 +23,8 @@
   
  </tr>
 </table>
-<img src="https://github.com/Qadir-Hassan/attachement/blob/main/tinywow_web-developer_14252841.gif">
-
+[<img src="https://github.com/Qadir-Hassan/attachement/blob/main/tinywow_web-developer_14252841.gif">
+](https://lottiefiles.com/92713-uiux)
 
 
 
