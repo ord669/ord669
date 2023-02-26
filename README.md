@@ -21,6 +21,7 @@
 </table>
 
 
+ <img src="[https://img.icons8.com/fluency/48/null/linkedin-circled.png](https://res.cloudinary.com/dd09wjwjn/image/upload/v1677412617/dazzle-man-programmer-writing-code-on-a-laptop_mizvnh.gif)"/>  
 
 
 # 🚀 SUMMARY
