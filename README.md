@@ -1,5 +1,7 @@
 # Hi there, I am Or Dvir -  [Linkedin][linkedin] 👋 
-#### Coding Superstar and Humble Junior Full Stack Developer
+#### FULL STACK DEVELOPER | CRAFTING INNOVATIVE
+SOLUTIONS WITH EXPERTISE IN FRONTEND AND
+BACKEND TECHNOLOGIES
 # Connect with me:
 
 <table>
